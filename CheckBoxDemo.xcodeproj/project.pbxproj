@@ -18,6 +18,27 @@
 		2540BA0E176428AB00441D82 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA0D176428AB00441D82 /* Default-568h@2x.png */; };
 		2540BA11176428AB00441D82 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA0F176428AB00441D82 /* MainStoryboard.storyboard */; };
 		2540BA14176428AB00441D82 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2540BA13176428AB00441D82 /* ViewController.m */; };
+		2540BA9717642BD900441D82 /* cb_box_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA7F17642BD900441D82 /* cb_box_off.png */; };
+		2540BA9817642BD900441D82 /* cb_box_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8017642BD900441D82 /* cb_box_off@2x.png */; };
+		2540BA9917642BD900441D82 /* cb_box_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8117642BD900441D82 /* cb_box_on.png */; };
+		2540BA9A17642BD900441D82 /* cb_box_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8217642BD900441D82 /* cb_box_on@2x.png */; };
+		2540BA9B17642BD900441D82 /* cb_dark_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8317642BD900441D82 /* cb_dark_off.png */; };
+		2540BA9C17642BD900441D82 /* cb_dark_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8417642BD900441D82 /* cb_dark_off@2x.png */; };
+		2540BA9D17642BD900441D82 /* cb_dark_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8517642BD900441D82 /* cb_dark_on.png */; };
+		2540BA9E17642BD900441D82 /* cb_dark_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8617642BD900441D82 /* cb_dark_on@2x.png */; };
+		2540BA9F17642BD900441D82 /* cb_glossy_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8717642BD900441D82 /* cb_glossy_off.png */; };
+		2540BAA017642BD900441D82 /* cb_glossy_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8817642BD900441D82 /* cb_glossy_off@2x.png */; };
+		2540BAA117642BD900441D82 /* cb_glossy_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8917642BD900441D82 /* cb_glossy_on.png */; };
+		2540BAA217642BD900441D82 /* cb_glossy_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8A17642BD900441D82 /* cb_glossy_on@2x.png */; };
+		2540BAA317642BD900441D82 /* cb_green_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8B17642BD900441D82 /* cb_green_off.png */; };
+		2540BAA417642BD900441D82 /* cb_green_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8C17642BD900441D82 /* cb_green_off@2x.png */; };
+		2540BAA517642BD900441D82 /* cb_green_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8D17642BD900441D82 /* cb_green_on.png */; };
+		2540BAA617642BD900441D82 /* cb_green_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8E17642BD900441D82 /* cb_green_on@2x.png */; };
+		2540BAA717642BD900441D82 /* cb_mono_off.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA8F17642BD900441D82 /* cb_mono_off.png */; };
+		2540BAA817642BD900441D82 /* cb_mono_off@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA9017642BD900441D82 /* cb_mono_off@2x.png */; };
+		2540BAA917642BD900441D82 /* cb_mono_on.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA9117642BD900441D82 /* cb_mono_on.png */; };
+		2540BAAA17642BD900441D82 /* cb_mono_on@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2540BA9217642BD900441D82 /* cb_mono_on@2x.png */; };
+		2540BAAC17642BD900441D82 /* CheckBoxView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2540BA9617642BD900441D82 /* CheckBoxView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +58,28 @@
 		2540BA10176428AB00441D82 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		2540BA12176428AB00441D82 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		2540BA13176428AB00441D82 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		2540BA7D17642BD900441D82 /* CheckBoxView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckBoxView.h; sourceTree = "<group>"; };
+		2540BA7F17642BD900441D82 /* cb_box_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_box_off.png; sourceTree = "<group>"; };
+		2540BA8017642BD900441D82 /* cb_box_off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_box_off@2x.png"; sourceTree = "<group>"; };
+		2540BA8117642BD900441D82 /* cb_box_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_box_on.png; sourceTree = "<group>"; };
+		2540BA8217642BD900441D82 /* cb_box_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_box_on@2x.png"; sourceTree = "<group>"; };
+		2540BA8317642BD900441D82 /* cb_dark_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_dark_off.png; sourceTree = "<group>"; };
+		2540BA8417642BD900441D82 /* cb_dark_off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_dark_off@2x.png"; sourceTree = "<group>"; };
+		2540BA8517642BD900441D82 /* cb_dark_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_dark_on.png; sourceTree = "<group>"; };
+		2540BA8617642BD900441D82 /* cb_dark_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_dark_on@2x.png"; sourceTree = "<group>"; };
+		2540BA8717642BD900441D82 /* cb_glossy_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_glossy_off.png; sourceTree = "<group>"; };
+		2540BA8817642BD900441D82 /* cb_glossy_off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_glossy_off@2x.png"; sourceTree = "<group>"; };
+		2540BA8917642BD900441D82 /* cb_glossy_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_glossy_on.png; sourceTree = "<group>"; };
+		2540BA8A17642BD900441D82 /* cb_glossy_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_glossy_on@2x.png"; sourceTree = "<group>"; };
+		2540BA8B17642BD900441D82 /* cb_green_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_green_off.png; sourceTree = "<group>"; };
+		2540BA8C17642BD900441D82 /* cb_green_off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_green_off@2x.png"; sourceTree = "<group>"; };
+		2540BA8D17642BD900441D82 /* cb_green_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_green_on.png; sourceTree = "<group>"; };
+		2540BA8E17642BD900441D82 /* cb_green_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_green_on@2x.png"; sourceTree = "<group>"; };
+		2540BA8F17642BD900441D82 /* cb_mono_off.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_mono_off.png; sourceTree = "<group>"; };
+		2540BA9017642BD900441D82 /* cb_mono_off@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_mono_off@2x.png"; sourceTree = "<group>"; };
+		2540BA9117642BD900441D82 /* cb_mono_on.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cb_mono_on.png; sourceTree = "<group>"; };
+		2540BA9217642BD900441D82 /* cb_mono_on@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cb_mono_on@2x.png"; sourceTree = "<group>"; };
+		2540BA9617642BD900441D82 /* CheckBoxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckBoxView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +99,7 @@
 		2540B9EB176428AB00441D82 = {
 			isa = PBXGroup;
 			children = (
+				2540BA7C17642BD900441D82 /* CheckBoxView */,
 				2540B9FD176428AB00441D82 /* CheckBoxDemo */,
 				2540B9F6176428AB00441D82 /* Frameworks */,
 				2540B9F5176428AB00441D82 /* Products */,
@@ -105,6 +149,43 @@
 				2540BA0D176428AB00441D82 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2540BA7C17642BD900441D82 /* CheckBoxView */ = {
+			isa = PBXGroup;
+			children = (
+				2540BA7E17642BD900441D82 /* Graphics */,
+				2540BA7D17642BD900441D82 /* CheckBoxView.h */,
+				2540BA9617642BD900441D82 /* CheckBoxView.m */,
+			);
+			path = CheckBoxView;
+			sourceTree = "<group>";
+		};
+		2540BA7E17642BD900441D82 /* Graphics */ = {
+			isa = PBXGroup;
+			children = (
+				2540BA7F17642BD900441D82 /* cb_box_off.png */,
+				2540BA8017642BD900441D82 /* cb_box_off@2x.png */,
+				2540BA8117642BD900441D82 /* cb_box_on.png */,
+				2540BA8217642BD900441D82 /* cb_box_on@2x.png */,
+				2540BA8317642BD900441D82 /* cb_dark_off.png */,
+				2540BA8417642BD900441D82 /* cb_dark_off@2x.png */,
+				2540BA8517642BD900441D82 /* cb_dark_on.png */,
+				2540BA8617642BD900441D82 /* cb_dark_on@2x.png */,
+				2540BA8717642BD900441D82 /* cb_glossy_off.png */,
+				2540BA8817642BD900441D82 /* cb_glossy_off@2x.png */,
+				2540BA8917642BD900441D82 /* cb_glossy_on.png */,
+				2540BA8A17642BD900441D82 /* cb_glossy_on@2x.png */,
+				2540BA8B17642BD900441D82 /* cb_green_off.png */,
+				2540BA8C17642BD900441D82 /* cb_green_off@2x.png */,
+				2540BA8D17642BD900441D82 /* cb_green_on.png */,
+				2540BA8E17642BD900441D82 /* cb_green_on@2x.png */,
+				2540BA8F17642BD900441D82 /* cb_mono_off.png */,
+				2540BA9017642BD900441D82 /* cb_mono_off@2x.png */,
+				2540BA9117642BD900441D82 /* cb_mono_on.png */,
+				2540BA9217642BD900441D82 /* cb_mono_on@2x.png */,
+			);
+			path = Graphics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +244,26 @@
 				2540BA0C176428AB00441D82 /* Default@2x.png in Resources */,
 				2540BA0E176428AB00441D82 /* Default-568h@2x.png in Resources */,
 				2540BA11176428AB00441D82 /* MainStoryboard.storyboard in Resources */,
+				2540BA9717642BD900441D82 /* cb_box_off.png in Resources */,
+				2540BA9817642BD900441D82 /* cb_box_off@2x.png in Resources */,
+				2540BA9917642BD900441D82 /* cb_box_on.png in Resources */,
+				2540BA9A17642BD900441D82 /* cb_box_on@2x.png in Resources */,
+				2540BA9B17642BD900441D82 /* cb_dark_off.png in Resources */,
+				2540BA9C17642BD900441D82 /* cb_dark_off@2x.png in Resources */,
+				2540BA9D17642BD900441D82 /* cb_dark_on.png in Resources */,
+				2540BA9E17642BD900441D82 /* cb_dark_on@2x.png in Resources */,
+				2540BA9F17642BD900441D82 /* cb_glossy_off.png in Resources */,
+				2540BAA017642BD900441D82 /* cb_glossy_off@2x.png in Resources */,
+				2540BAA117642BD900441D82 /* cb_glossy_on.png in Resources */,
+				2540BAA217642BD900441D82 /* cb_glossy_on@2x.png in Resources */,
+				2540BAA317642BD900441D82 /* cb_green_off.png in Resources */,
+				2540BAA417642BD900441D82 /* cb_green_off@2x.png in Resources */,
+				2540BAA517642BD900441D82 /* cb_green_on.png in Resources */,
+				2540BAA617642BD900441D82 /* cb_green_on@2x.png in Resources */,
+				2540BAA717642BD900441D82 /* cb_mono_off.png in Resources */,
+				2540BAA817642BD900441D82 /* cb_mono_off@2x.png in Resources */,
+				2540BAA917642BD900441D82 /* cb_mono_on.png in Resources */,
+				2540BAAA17642BD900441D82 /* cb_mono_on@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +277,7 @@
 				2540BA04176428AB00441D82 /* main.m in Sources */,
 				2540BA08176428AB00441D82 /* AppDelegate.m in Sources */,
 				2540BA14176428AB00441D82 /* ViewController.m in Sources */,
+				2540BAAC17642BD900441D82 /* CheckBoxView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +365,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CheckBoxDemo/CheckBoxDemo-Prefix.pch";
 				INFOPLIST_FILE = "CheckBoxDemo/CheckBoxDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -274,6 +377,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CheckBoxDemo/CheckBoxDemo-Prefix.pch";
 				INFOPLIST_FILE = "CheckBoxDemo/CheckBoxDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
